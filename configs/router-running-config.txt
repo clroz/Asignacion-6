@@ -1,0 +1,10 @@
+Router Linux — configuración aplicada
+
+Interface: eth1
+Address: 10.17.45.1/24
+SSH: activo en TCP/22
+Usuario local: netadmin (credencial omitida)
+PAM RADIUS: /etc/pam_radius_auth.conf
+Servidor RADIUS: 10.17.45.10
+Puerto RADIUS: 1812
+Secreto: configurado en el equipo; no se publica en este archivo

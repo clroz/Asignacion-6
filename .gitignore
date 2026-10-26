@@ -1,0 +1,7 @@
+# Credenciales y scripts temporales de automatización local
+*.py
+tmp_*
+*.bak*
+
+# Archivos temporales
+*.log
