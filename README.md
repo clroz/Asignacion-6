@@ -2,7 +2,7 @@
 
 ## Video demostrativo
 
-**Enlace:** pendiente de grabación y publicación en YouTube.
+**Enlace:** https://youtu.be/dYmnXDmVB5A
 
 Este enlace debe permanecer al principio del repositorio, tal como solicita la asignación.
 
